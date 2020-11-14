@@ -1,4 +1,5 @@
 public class Manusia {
+    
     private int tinggi;
     private String kulit;
    
